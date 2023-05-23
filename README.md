@@ -61,21 +61,3 @@ The image classification algorithm implemented in this project follows a simple 
 4. **Model Evaluation**: The trained model is evaluated using a validation set to assess its performance and fine-tune its parameters if necessary.
 
 5. **Prediction**: Once the model is trained, it can be used to classify new images. The algorithm takes an input image, preprocesses it, extracts the features, and feeds them into the trained model for prediction.
-
-## Contributing
-
-Contributions are welcome! If you find any issues or have ideas for improvements, please open an issue or submit a pull request. Make sure to follow the repository's code of conduct.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Acknowledgments
-
-This implementation was inspired by the works of various researchers and practitioners in the field of image classification. Their contributions and open-source projects have greatly influenced this work. We would like to express our gratitude to the entire community for their efforts and valuable resources.
-
-## Contact
-
-If you have any questions or suggestions regarding this project, feel free to contact us at [your-email@example.com](mailto:your-email@example.com). We would be happy to hear from you!
-
-Happy classifying!
