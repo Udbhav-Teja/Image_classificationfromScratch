@@ -7,26 +7,21 @@ This repository provides an image classification implementation from scratch, wi
 
 To use this image classification implementation, follow these steps:
 
-1. Clone the repository:
 
-```shell
-git clone https://github.com/your-username/image-classification-from-scratch.git
-```
-
-2. Navigate to the project directory:
+1. Navigate to the project directory:
 
 ```shell
 cd image-classification-from-scratch
 ```
 
-3. Set up a virtual environment (optional but recommended):
+2. Set up a virtual environment (optional but recommended):
 
 ```shell
 python3 -m venv venv
 source venv/bin/activate
 ```
 
-4. Install the required dependencies:
+3. Install the required dependencies:
 
 ```shell
 pip install -r requirements.txt
