@@ -9,6 +9,8 @@ from tenserflow.keras import layers
 !ls
 
 !ls PetImages
+
+
 import os
 
 num_skipped = 0
